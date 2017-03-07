@@ -1,0 +1,1 @@
+window.util={checkCollision:function(i,n){return cc.pDistanceSQ(i.getPosition(),n.getPosition())<250}};
